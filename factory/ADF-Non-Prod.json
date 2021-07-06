@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Non-Prod",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "994f7910-469b-46b0-90d8-608e1751349e",
+		"tenantId": "455418d7-59c1-43c2-83ed-322806a21b5c"
+	}
+}
